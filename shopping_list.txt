@@ -8,3 +8,5 @@ Shopping List:
 7. Cheese
 8. Eggs
 9. Sugar
+10. Chocolate
+11. Ice cream
