@@ -1,5 +1,9 @@
 Shopping List:
+<<<<<<< Updated upstream
 
+=======
+1. Fresh vegetables ==> I removed this line via GitHub.
+>>>>>>> Stashed changes
 2. Bread
 3. Milk
 4. Coffee
