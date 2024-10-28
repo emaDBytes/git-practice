@@ -6,3 +6,5 @@ Shopping List:
 5. Fruits
 6. Pasta
 7. Cheese
+8. Eggs
+9. Sugar
