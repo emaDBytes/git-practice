@@ -1,3 +1,3 @@
-Once upon a time in a digital world, there was a programmer learning Git.
+Once upon a time in a digital world, THERE WAS A PROGRAMMER LEARNING gIT.
 The programmer was excited to learn about version control and how it could help
 manage their code better. Every day brought new discoveries and challenges.
