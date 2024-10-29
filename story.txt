@@ -1,7 +1,4 @@
-<<<<<<< Updated upstream
 Once upon a time in a digital world, THERE WAS A PROGRAMMER LEARNING gIT.
-=======
 oNCE UPON A TIME IN A DIGITAL WORLD, there was a programmer learning Git.
->>>>>>> Stashed changes
 The programmer was excited to learn about version control and how it could help
 manage their code better. Every day brought new discoveries and challenges.
